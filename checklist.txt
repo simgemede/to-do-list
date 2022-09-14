@@ -1,4 +1,0 @@
-python
-java
-javascript
-htmll-css
